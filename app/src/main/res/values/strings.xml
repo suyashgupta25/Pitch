@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Axioo</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_feed">Feed</string>
+    <string name="nav_bookmarks">Saved</string>
+    <string name="nav_profile">You</string>
+
+    <!-- Feed -->
+    <string name="feed_loading">Loading the feed</string>
+    <string name="feed_error_title">Couldn\'t load pitches</string>
+    <string name="feed_error_retry">Try again</string>
+    <string name="feed_mute_on">Sound off · tap to unmute</string>
+    <string name="feed_mute_off">Sound on · tap to mute</string>
+    <string name="feed_like">Like</string>
+    <string name="feed_save">Save</string>
+    <string name="feed_views">Views</string>
+    <string name="feed_passed">Passed</string>
+
+    <!-- Bookmarks -->
+    <string name="bookmarks_title">Saved pitches</string>
+    <string name="bookmarks_empty_title">Nothing saved yet</string>
+    <string name="bookmarks_empty_body">Tap a pitch in the feed to save it. Your shortlist lives here.</string>
+
+    <!-- Profile -->
+    <string name="profile_title">You</string>
+    <string name="profile_user_type_section">I am a</string>
+    <string name="profile_user_type_founder">Founder</string>
+    <string name="profile_user_type_investor">Investor</string>
+    <string name="profile_liked_section">Liked</string>
+    <string name="profile_saved_section">Saved</string>
+    <string name="profile_empty_carousel">Nothing here yet</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_back">Back</string>
+    <string name="cd_video_player">Pitch video</string>
+    <string name="cd_thumbnail">Pitch thumbnail</string>
+</resources>
