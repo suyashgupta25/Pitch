@@ -8,19 +8,7 @@ A vertical, autoplay video feed of founder-uploaded pitches with swipe-to-like, 
 
 ## Demo
 
-> _Video walkthrough and animated GIF go here._
->
-> Replace this section with:
-> - 2–3 minute Loom or YouTube link
-> - 6–8 second feed-scroll GIF (the swipe-to-like animation is the money shot)
-
-## Screenshots
-
-| Feed (dark) | Bookmarks (light) | Profile (light) |
-|---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
-
----
+![Axioo demo](demo/demo.gif)
 
 ## Architecture
 

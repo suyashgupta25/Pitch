@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Axioo</string>
+    <string name="app_name">Pitch</string>
 
     <!-- Bottom navigation -->
     <string name="nav_feed">Feed</string>
