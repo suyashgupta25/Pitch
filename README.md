@@ -1,4 +1,4 @@
-# Axioo
+# Pitch
 
 **Scroll-based startup pitch video discovery — a TikTok-style feed for founders and investors.**
 
